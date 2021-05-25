@@ -1,5 +1,5 @@
 # Early Bird
-This is a smart A.I. powered Alarm Clock App which will stop once the user Start Brushing.
+Early Bird is a smart A.I. powered Alarm Clock App which will stop once the user Start Brushing.
 
 
 <div style="display:flex;">
