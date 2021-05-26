@@ -12,14 +12,14 @@ Early Bird is a smart A.I. powered Alarm Clock App which will stop once the user
 </div>
 
 
-## How to contribute to Early Bird ?
-### What type of pull request do we accept into Early Bird repository?
+## How to contribute to EarlyBird ?
+### What type of pull request do we accept into EarlyBird repository?
 * Bug Fixes
 * Documentation fixes
-For new feature additions (e.g., new graphs and calculators), we are currently not planning to accept new feature pull requests into the repository. Instead, we like to get contributors to improve our code. This will allow contributors to more quickly get their code to the community.
+For new feature additions, we are currently not planning to accept new feature pull requests into the repository. Instead, we like to get contributors to improve our code. This will allow contributors to more quickly get their code to the community.
 
 ### Contributing code
-If you have bug fixes and documentation fixes to MediaPipe, send us your pull requests! For those
+If you have bug fixes and documentation fixes to EarlyBird, send us your pull requests! For those
 just getting started, GitHub has a [how to](https://help.github.com/articles/using-pull-requests/).
 
 EarlyBird will be assigned to review your pull requests. Once the bug/documentation fixes are verified, it will acknowledge your contribution in the pull request comments, manually merge the fixes into our internal codebase upstream, and apply the `to be closed` label to the pull request. These fixes will later be pushed to GitHub in the next release, and then will close the pull request.
